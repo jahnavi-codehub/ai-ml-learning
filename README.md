@@ -1,17 +1,26 @@
-# AI & ML Learning Journey
+# AI / ML Learning Portfolio
 
-This repository documents my learning and practice in Artificial Intelligence and Machine Learning.
+Hi, I’m Laxmi Jahnavi 👋  
+I’m a beginner in Artificial Intelligence and Machine Learning, actively learning and building concepts step by step.
 
-## Topics I am learning
-- Python fundamentals
-- Data analysis using NumPy and Pandas
-- Basics of Machine Learning algorithms
-- Understanding AI concepts and use cases
+## 🔹 What I’m Learning
+- Python for Data Analysis
+- Machine Learning fundamentals
+- Basics of NLP (Natural Language Processing)
+- Understanding how AI models work
+- Using AI tools responsibly for learning and productivity
 
-## Current Focus
-- Strengthening Python basics
-- Learning how ML models work
-- Applying concepts through small practice exercises
+## 🔹 Current Focus
+- Learning core ML concepts
+- Writing small experiments and notes
+- Exploring real-world AI use cases
 
-## Goal
-To build strong fundamentals in AI/ML and gain real-world experience through internships and projects.
+## 🔹 Tools & Skills
+- Python (beginner)
+- Machine Learning (beginner)
+- AI concepts
+- Logical thinking & problem solving
+- Research & documentation
+
+I am a quick learner, consistent, and open to feedback.  
+This repository will be updated regularly as I learn and build more.
